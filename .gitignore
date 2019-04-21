@@ -7,3 +7,14 @@ GraphQL.iml
 .idea/markdown-navigator.xml
 .idea/dictionaries/pravinkumarsingh.xml
 .idea/compiler.xml
+.idea/encodings.xml
+.idea/uiDesigner.xml
+target/classes/com/iampravo/apps/GraphQL/enums/UserType.class
+target/classes/com/iampravo/apps/GraphQL/GraphQLApplication.class
+target/classes/com/iampravo/apps/GraphQL/models/User.class
+target/classes/com/iampravo/apps/GraphQL/resolvers/Query.class
+target/classes/user.graphqls
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
